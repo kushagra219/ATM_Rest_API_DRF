@@ -1,5 +1,5 @@
 # Mckinley_Task
-ATM transaction APIs
+ATM Rest APIs built using Django Rest Framework
 
 ## APIs 
 
